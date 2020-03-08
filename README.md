@@ -9,5 +9,6 @@
 
 FXML을 손쉽게 만들 수 있는 툴
 
-![sim1.png](./img/sim1.png)
-![sim2.png](./img/sim2.png)
+![sim1](https://user-images.githubusercontent.com/55770836/76158083-453d9680-6155-11ea-9546-e9cae09577a2.PNG)
+![sim2](https://user-images.githubusercontent.com/55770836/76158084-47075a00-6155-11ea-8082-5dffd3667bac.PNG)
+
